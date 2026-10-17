@@ -1,0 +1,135 @@
+android/app/src/main/res/values/strings.xml
+  s_f36788bf4adcc2::t_71581b81f7d0ad 634-637
+android/app/src/main/res/values-fr/strings.xml
+  s_f36788bf4adcc2::t_868fa69509b5cd 638-641
+iphone/Maps/LocalizedStrings/af.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_03b901f25f4f20 744-749
+iphone/Maps/LocalizedStrings/ar.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_4e2c4fed24f951 744-749
+iphone/Maps/LocalizedStrings/ast.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_83d91f20028763 744-749
+iphone/Maps/LocalizedStrings/az.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_ac6adbfc016adf 744-749
+iphone/Maps/LocalizedStrings/be.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_08f11a567cfb6e 744-749
+iphone/Maps/LocalizedStrings/bg.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_28d8d6182c8d9f 744-749
+iphone/Maps/LocalizedStrings/ca.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_aec7c47f1bd15c 744-749
+iphone/Maps/LocalizedStrings/cs.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_a8249ffb702e11 744-749
+iphone/Maps/LocalizedStrings/cy.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_757eafeabac3bc 741-746
+iphone/Maps/LocalizedStrings/da.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_53cc1d54ae1096 744-749
+iphone/Maps/LocalizedStrings/de.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_28ea78c5fc6920 744-749
+iphone/Maps/LocalizedStrings/el.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_2c4cc8b8a9cf41 744-749
+iphone/Maps/LocalizedStrings/en-GB.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_a40dab1937d7a3 743-748
+iphone/Maps/LocalizedStrings/en.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_82473da827b084 744-749
+iphone/Maps/LocalizedStrings/es-MX.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_bd5e93a1c2ed3b 744-749
+iphone/Maps/LocalizedStrings/es.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_bc62314f021bb9 744-749
+iphone/Maps/LocalizedStrings/et.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8fcbbb90096263 744-749
+iphone/Maps/LocalizedStrings/eu.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_75656af7e9941a 744-749
+iphone/Maps/LocalizedStrings/fa.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_c5ff5a6ffab79d 744-749
+iphone/Maps/LocalizedStrings/fi.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_b051d51034ceac 744-749
+iphone/Maps/LocalizedStrings/fr-CA.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_f710ff8d36b16f 744-749
+iphone/Maps/LocalizedStrings/fr.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_cccd28d499de89 744-749
+iphone/Maps/LocalizedStrings/gl.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_22ebf59f116818 744-749
+iphone/Maps/LocalizedStrings/he.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_4d74aff1e7baad 744-749
+iphone/Maps/LocalizedStrings/hi.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8726738a6c0b22 744-749
+iphone/Maps/LocalizedStrings/hr.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_5c7b6e1b47f5ef 744-749
+iphone/Maps/LocalizedStrings/hu.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_b200f20bc87027 744-749
+iphone/Maps/LocalizedStrings/hy.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_eb333b10d0de9f 744-749
+iphone/Maps/LocalizedStrings/id.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_938fc6df2c76ea 744-749
+iphone/Maps/LocalizedStrings/is.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_106ae4e61e4cdc 744-749
+iphone/Maps/LocalizedStrings/it.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_75a3087ce27c5f 744-749
+iphone/Maps/LocalizedStrings/ja.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_9deb5151683ffe 744-749
+iphone/Maps/LocalizedStrings/ko.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_f397a86fe46944 744-749
+iphone/Maps/LocalizedStrings/lo.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_42c61da3a34f3c 744-749
+iphone/Maps/LocalizedStrings/lt.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_49a840aa355c4b 744-749
+iphone/Maps/LocalizedStrings/lv.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_5b96e905168f0e 744-749
+iphone/Maps/LocalizedStrings/mr.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8454501f17a6a0 744-749
+iphone/Maps/LocalizedStrings/mt.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_fa67f1d6f90b54 744-749
+iphone/Maps/LocalizedStrings/nb.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8199cc49511dea 744-749
+iphone/Maps/LocalizedStrings/nl.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_c637c063676621 744-749
+iphone/Maps/LocalizedStrings/pl.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_794e26871399c8 744-749
+iphone/Maps/LocalizedStrings/pt-BR.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8b6d2c1b143583 744-749
+iphone/Maps/LocalizedStrings/pt.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_84ae3224b88e70 744-749
+iphone/Maps/LocalizedStrings/ro.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_e73b614b593f7e 744-749
+iphone/Maps/LocalizedStrings/ru.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_779d59e2f76f04 744-749
+iphone/Maps/LocalizedStrings/sk.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_de0fed9b4c0da2 744-749
+iphone/Maps/LocalizedStrings/sl.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_567ce486ab9b57 744-749
+iphone/Maps/LocalizedStrings/sq.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_014859dd865dd0 744-749
+iphone/Maps/LocalizedStrings/sr.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_8215c4bb71fee6 744-749
+iphone/Maps/LocalizedStrings/sv.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_5fd4da2ff22cee 744-749
+iphone/Maps/LocalizedStrings/sw.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_2627c05f57b6aa 744-749
+iphone/Maps/LocalizedStrings/th.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_4cdd105821007f 744-749
+iphone/Maps/LocalizedStrings/tr.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_e2aa5c360ccce5 744-749
+iphone/Maps/LocalizedStrings/uk.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_1c86cf91ea06d6 744-749
+iphone/Maps/LocalizedStrings/vi.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_556604b47c91b2 744-749
+iphone/Maps/LocalizedStrings/zh-Hans.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_bf5814f43797a5 744-749
+iphone/Maps/LocalizedStrings/zh-Hant.lproj/Localizable.strings
+  s_f36788bf4adcc2::t_fd754261df4526 744-749
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "38d194ed8d84908e0f06b203aa69a92e098a329b",
+  "prompts": {},
+  "sessions": {
+    "s_f36788bf4adcc2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a149f9-cb65-73f0-af30-d7ec2ebad048",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
