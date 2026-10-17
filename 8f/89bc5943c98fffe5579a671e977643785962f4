@@ -1,0 +1,78 @@
+libs/map/routing_manager.cpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 1366,1437-1456
+libs/routing/routing_options.cpp
+  s_f36788bf4adcc2::t_3ea9b4f0a9ae66 245-247,255-262
+  s_f36788bf4adcc2::t_42c35916fe96fb 34-47,50-54,105-109,118-120
+  s_f36788bf4adcc2::t_18af979bf2e955 217,248-250
+libs/routing/routing_tests/routing_options_tests.cpp
+  s_f36788bf4adcc2::t_3ea9b4f0a9ae66 83-115
+libs/routing/routing_options.hpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 38,50-51,55
+  s_f36788bf4adcc2::t_3ea9b4f0a9ae66 83
+iphone/Maps/UI/Settings/DrivingOptions/RoutingOptionsSettingsInteractor.swift
+  s_f36788bf4adcc2::t_18af979bf2e955 33
+qt/routing_settings_dialog.hpp
+  s_f36788bf4adcc2::t_18af979bf2e955 47-48
+libs/routing/routing_session.cpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 103,235
+qt/draw_widget.cpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 590,592
+iphone/Maps/Tests/Core/Routing/RoutingOptionsSettingsTests.swift
+  s_f36788bf4adcc2::t_3ea9b4f0a9ae66 49-80
+android/sdk/src/test/java/app/organicmaps/sdk/routing/RoutingSettingsAvailabilityTest.java
+  s_f36788bf4adcc2::t_3ea9b4f0a9ae66 12-19
+  s_f36788bf4adcc2::t_1c58ea4c2bf825 11
+android/app/src/main/java/app/organicmaps/settings/DrivingOptionsFragment.java
+  s_f36788bf4adcc2::t_6e4e8b28664426 30,34,52,76,91-92,99,106-110
+  s_f36788bf4adcc2::t_3618e7c774da20 53,93-94
+  s_f36788bf4adcc2::t_acaa5c56307e75 111
+libs/map/map_tests/routing_manager_tests.cpp
+  s_f36788bf4adcc2::t_2dff1e4d02d387 948-949
+  s_f36788bf4adcc2::t_21b3c17c242a40 31-32,1008
+  s_f36788bf4adcc2::t_b22a54819c1d9c 6-7
+  s_f36788bf4adcc2::t_26373f539eee4e 935-937
+  s_f36788bf4adcc2::t_e436fbd6572aad 8,901-914,917-919,921-934,938-947,950-990,994-1007
+  s_f36788bf4adcc2::t_3618e7c774da20 915-916,920,991-993
+qt/routing_settings_dialog.cpp
+  s_f36788bf4adcc2::t_3618e7c774da20 141-143
+  s_f36788bf4adcc2::t_18af979bf2e955 6,139-140,144-148,207-214,219,224-227
+iphone/Maps/Core/Settings/MWMRoutingOptions.h
+  s_f36788bf4adcc2::t_6e4e8b28664426 19,29
+android/app/src/main/java/app/organicmaps/settings/SettingsPrefsFragment.java
+  s_f36788bf4adcc2::t_47f00f87882b5d 96
+data/strings/strings.txt
+  s_f36788bf4adcc2::t_6e4e8b28664426 27544-27555
+iphone/Maps/UI/Settings/DrivingOptions/RoutingOptionsSettingsPresenter.swift
+  s_f36788bf4adcc2::t_6e4e8b28664426 22-26
+android/app/src/main/res/layout/fragment_driving_options.xml
+  s_f36788bf4adcc2::t_18af979bf2e955 126-163
+iphone/Maps/Core/Settings/MWMRoutingOptions.mm
+  s_f36788bf4adcc2::t_6e4e8b28664426 32,84-93,124-126,131
+android/sdk/src/main/java/app/organicmaps/sdk/routing/RoutingOptions.java
+  s_f36788bf4adcc2::t_6e4e8b28664426 52-66,96-99
+libs/routing/routing_session.hpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 162-163,177
+libs/map/routing_manager.hpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 131
+iphone/Maps/UI/Settings/DrivingOptions/RoutingOptionsSettingsModels.swift
+  s_f36788bf4adcc2::t_6e4e8b28664426 3,9,22,33,52
+android/sdk/src/main/cpp/app/organicmaps/sdk/routing/RoutingJni.cpp
+  s_f36788bf4adcc2::t_6e4e8b28664426 412,414-420,423-432
+  s_f36788bf4adcc2::t_3618e7c774da20 413,421-422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "8f89bc5943c98fffe5579a671e977643785962f4",
+  "prompts": {},
+  "sessions": {
+    "s_f36788bf4adcc2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a149f9-cb65-73f0-af30-d7ec2ebad048",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
