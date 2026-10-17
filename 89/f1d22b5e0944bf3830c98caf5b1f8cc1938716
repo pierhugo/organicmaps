@@ -1,0 +1,44 @@
+libs/routing/guides_connections.cpp
+  s_f36788bf4adcc2::t_7653ebec17adbe 38-39
+  s_f36788bf4adcc2::t_92c804b655a0d7 35-37
+libs/routing/routing_integration_tests/guides_tests.cpp
+  s_f36788bf4adcc2::t_f2b7399d728e7c 1,108-110,112-113,116-124,126
+  s_f36788bf4adcc2::t_aa6eb3a028390e 114-115
+  s_f36788bf4adcc2::t_12e1d74d3f9536 125
+  s_f36788bf4adcc2::t_65f9c605ce6bfc 127-145,176
+  s_f36788bf4adcc2::t_070969b703d807 171
+  s_f36788bf4adcc2::t_76c7bb8d47fbac 7,146-170,172-175
+  s_f36788bf4adcc2::t_92c804b655a0d7 111
+libs/routing/routing_tests/guides_tests.cpp
+  s_f36788bf4adcc2::t_7653ebec17adbe 135-149,151-153
+  s_f36788bf4adcc2::t_760b7862ac754d 150
+libs/routing/index_router.hpp
+  s_f36788bf4adcc2::t_12e1d74d3f9536 161
+libs/routing/index_router.cpp
+  s_f36788bf4adcc2::t_42c35916fe96fb 482-484
+  s_f36788bf4adcc2::t_12e1d74d3f9536 600
+  s_f36788bf4adcc2::t_7653ebec17adbe 663-665
+data/test_data/osm/saved_tracks.osm
+  s_f36788bf4adcc2::t_f2b7399d728e7c 1-12,14-15
+  s_f36788bf4adcc2::t_76c7bb8d47fbac 13
+libs/routing/index_graph_starter.cpp
+  s_f36788bf4adcc2::t_65f9c605ce6bfc 308
+libs/routing/guides_graph.cpp
+  s_f36788bf4adcc2::t_7653ebec17adbe 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "89f1d22b5e0944bf3830c98caf5b1f8cc1938716",
+  "prompts": {},
+  "sessions": {
+    "s_f36788bf4adcc2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a149f9-cb65-73f0-af30-d7ec2ebad048",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
