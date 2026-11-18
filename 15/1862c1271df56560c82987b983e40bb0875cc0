@@ -1,0 +1,36 @@
+android/sdk/src/test/java/app/organicmaps/sdk/routing/RoutingSettingsAvailabilityTest.java
+  s_7dfe5f73cf2aee::t_86bab5a2cb1bf6 12-19
+android/app/src/main/java/app/organicmaps/settings/DrivingOptionsFragment.java
+  s_7dfe5f73cf2aee::t_601fda5e4b4125 34-35,38-39,60-63,107-108,120-121,129,131-132,167-174
+android/sdk/src/main/cpp/app/organicmaps/sdk/routing/RoutingJni.cpp
+  s_7dfe5f73cf2aee::t_86bab5a2cb1bf6 427-447
+android/sdk/src/main/java/app/organicmaps/sdk/routing/RoutingOptions.java
+  s_7dfe5f73cf2aee::t_86bab5a2cb1bf6 47-61,91-94
+android/app/src/main/java/app/organicmaps/settings/SettingsPrefsFragment.java
+  s_7dfe5f73cf2aee::t_86bab5a2cb1bf6 98
+data/strings/strings.txt
+  s_7dfe5f73cf2aee::t_4585d62284bee4 27828-27838
+android/app/src/main/res/layout/fragment_driving_options.xml
+  s_7dfe5f73cf2aee::t_601fda5e4b4125 195-197,199-204,206-226,228-229
+  s_7dfe5f73cf2aee::t_86bab5a2cb1bf6 194,198,205,227,230
+qt/routing_settings_dialog.cpp
+  s_7dfe5f73cf2aee::t_4585d62284bee4 8,142-149,208-215,220,225-228
+libs/map/map_tests/routing_manager_tests.cpp
+  s_7dfe5f73cf2aee::t_601fda5e4b4125 10,1027-1133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "151862c1271df56560c82987b983e40bb0875cc0",
+  "prompts": {},
+  "sessions": {
+    "s_7dfe5f73cf2aee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef95-0f72-7520-9c99-5d6c62993c91",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
