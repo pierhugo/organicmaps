@@ -1,0 +1,19 @@
+libs/map/map_tests/routing_manager_tests.cpp
+  s_7dfe5f73cf2aee::t_dccac4a26dfd5b 1099,1119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e16ef4dfa2179ca3b0b78a3b88d43a564fbe6fa4",
+  "prompts": {},
+  "sessions": {
+    "s_7dfe5f73cf2aee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef95-0f72-7520-9c99-5d6c62993c91",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
