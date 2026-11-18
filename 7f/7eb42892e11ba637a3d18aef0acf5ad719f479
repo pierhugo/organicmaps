@@ -1,0 +1,19 @@
+android/app/src/main/java/app/organicmaps/settings/DrivingOptionsFragment.java
+  s_7dfe5f73cf2aee::t_b006919ce01fbc 62-63,121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7f7eb42892e11ba637a3d18aef0acf5ad719f479",
+  "prompts": {},
+  "sessions": {
+    "s_7dfe5f73cf2aee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef95-0f72-7520-9c99-5d6c62993c91",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
