@@ -1,0 +1,261 @@
+android/app/src/main/res/values-fr/strings.xml
+  s_7dfe5f73cf2aee::t_1ab5b35c06cda2 654-657
+android/app/src/main/res/values/strings.xml
+  s_7dfe5f73cf2aee::t_46f11be86e2c12 649-652
+iphone/Maps/LocalizedStrings/af.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_4ee3f6a6324f49 756-761
+iphone/Maps/LocalizedStrings/ar.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_d4f7a99a1b423c 756-761
+iphone/Maps/LocalizedStrings/ast.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_93d48fbe68cb6f 756-761
+iphone/Maps/LocalizedStrings/az.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_b22f1932239d8c 756-761
+iphone/Maps/LocalizedStrings/be.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_21c4bc490646ed 756-761
+iphone/Maps/LocalizedStrings/bg.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_1de4573be3b23a 756-761
+iphone/Maps/LocalizedStrings/ca.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_665db2bf25a79a 756-761
+iphone/Maps/LocalizedStrings/cs.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_75eee5da3aed30 756-761
+iphone/Maps/LocalizedStrings/cy.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_a76b15205cf4c8 756-761
+iphone/Maps/LocalizedStrings/da.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_acc1eebf82a495 756-761
+iphone/Maps/LocalizedStrings/de.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_ed01a1eeae5407 756-761
+iphone/Maps/LocalizedStrings/el.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_483615c3c09d34 756-761
+iphone/Maps/LocalizedStrings/en-GB.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_d8c3f87995e376 756-761
+iphone/Maps/LocalizedStrings/en.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_e3709a1f35137d 756-761
+iphone/Maps/LocalizedStrings/es-MX.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_1901f4c142a139 756-761
+iphone/Maps/LocalizedStrings/es.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_95276221c581db 756-761
+iphone/Maps/LocalizedStrings/et.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_ecc443ec1685aa 756-761
+iphone/Maps/LocalizedStrings/eu.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_709cb3e8ead94e 756-761
+iphone/Maps/LocalizedStrings/fa.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_a3b711b2426d4f 756-761
+iphone/Maps/LocalizedStrings/fi.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_ff583c80dbd124 756-761
+iphone/Maps/LocalizedStrings/fr-CA.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_ad323ec588155c 756-761
+iphone/Maps/LocalizedStrings/fr.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_45647ca2417e4f 756-761
+iphone/Maps/LocalizedStrings/gl.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_f3cc805753dc7b 756-761
+iphone/Maps/LocalizedStrings/he.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_23677eae4c5b8a 756-761
+iphone/Maps/LocalizedStrings/hi.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_026c2ed5a04d1a 756-761
+iphone/Maps/LocalizedStrings/hr.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_36f2f8f0c3942b 756-761
+iphone/Maps/LocalizedStrings/hu.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_ab7b4abed3108b 756-761
+iphone/Maps/LocalizedStrings/hy.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_50408abceaeb25 756-761
+iphone/Maps/LocalizedStrings/id.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_47cb1025c24d0c 756-761
+iphone/Maps/LocalizedStrings/is.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_57818d5a9563f9 756-761
+iphone/Maps/LocalizedStrings/it.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_192b97d0c7ce45 756-761
+iphone/Maps/LocalizedStrings/ja.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_210fd5fdf495dd 756-761
+iphone/Maps/LocalizedStrings/ko.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_b85352071c5ad4 756-761
+iphone/Maps/LocalizedStrings/lo.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_0a900c85ee9f6d 756-761
+iphone/Maps/LocalizedStrings/lt.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_12df2683e97dd6 756-761
+iphone/Maps/LocalizedStrings/lv.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_67f601adf775ee 756-761
+iphone/Maps/LocalizedStrings/mr.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_5794d2bda38b20 756-761
+iphone/Maps/LocalizedStrings/mt.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_e4cdce296e070d 756-761
+iphone/Maps/LocalizedStrings/nb.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_87071ab511a45e 756-761
+iphone/Maps/LocalizedStrings/nl.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_97904273dce1ba 756-761
+iphone/Maps/LocalizedStrings/pl.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_96157bc636742d 756-761
+iphone/Maps/LocalizedStrings/pt-BR.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_8bb14d301ec0e0 756-761
+iphone/Maps/LocalizedStrings/pt.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_d3046df69263a3 756-761
+iphone/Maps/LocalizedStrings/ro.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_016af22ac4015f 756-761
+iphone/Maps/LocalizedStrings/ru.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_c284fef22f0e24 756-761
+iphone/Maps/LocalizedStrings/sk.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_6671686aa6c71f 756-761
+iphone/Maps/LocalizedStrings/sl.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_87d44afdb66594 756-761
+iphone/Maps/LocalizedStrings/sq.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_fb3b4adc012033 756-761
+iphone/Maps/LocalizedStrings/sr.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_a8b3352ba966b0 756-761
+iphone/Maps/LocalizedStrings/sv.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_6a9fbc2aee0e62 756-761
+iphone/Maps/LocalizedStrings/sw.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_9facf2bab41a5d 756-761
+iphone/Maps/LocalizedStrings/th.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_8e50253e21ac4a 756-761
+iphone/Maps/LocalizedStrings/tr.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_afb4c65f2ddad7 756-761
+iphone/Maps/LocalizedStrings/uk.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_55638570f76a4c 756-761
+iphone/Maps/LocalizedStrings/vi.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_467a76dc4383ac 756-761
+iphone/Maps/LocalizedStrings/zh-Hans.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_84069d42049064 756-761
+iphone/Maps/LocalizedStrings/zh-Hant.lproj/Localizable.strings
+  s_7dfe5f73cf2aee::t_483c9cb0848949 756-761
+qt/translations/af/organicmaps.ts
+  s_7dfe5f73cf2aee::t_8a0827af15ca4a 532-544
+qt/translations/ar/organicmaps.ts
+  s_7dfe5f73cf2aee::t_61b9ca51c78669 532-544
+qt/translations/ast/organicmaps.ts
+  s_7dfe5f73cf2aee::t_92dafbc26689ab 532-544
+qt/translations/az/organicmaps.ts
+  s_7dfe5f73cf2aee::t_e3499a5b7be2d4 532-544
+qt/translations/be/organicmaps.ts
+  s_7dfe5f73cf2aee::t_b56b4e5916464c 532-544
+qt/translations/bg/organicmaps.ts
+  s_7dfe5f73cf2aee::t_bd0413c4c1381c 532-544
+qt/translations/bn/organicmaps.ts
+  s_7dfe5f73cf2aee::t_28f7204c82446f 532-544
+qt/translations/ca/organicmaps.ts
+  s_7dfe5f73cf2aee::t_761ad0f8b709c4 532-544
+qt/translations/cs/organicmaps.ts
+  s_7dfe5f73cf2aee::t_8d7c28fe4fd823 532-544
+qt/translations/cy/organicmaps.ts
+  s_7dfe5f73cf2aee::t_e1145710c9d057 532-544
+qt/translations/da/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f9eed9ba6cf029 532-544
+qt/translations/de/organicmaps.ts
+  s_7dfe5f73cf2aee::t_44ae54f0ada009 532-544
+qt/translations/el/organicmaps.ts
+  s_7dfe5f73cf2aee::t_a16b28d52970d8 532-544
+qt/translations/en-GB/organicmaps.ts
+  s_7dfe5f73cf2aee::t_8df3aa55270a0d 532-544
+qt/translations/en/organicmaps.ts
+  s_7dfe5f73cf2aee::t_39b4cec918393e 532-544
+qt/translations/es-MX/organicmaps.ts
+  s_7dfe5f73cf2aee::t_35c14ed46ce4a2 532-544
+qt/translations/es/organicmaps.ts
+  s_7dfe5f73cf2aee::t_85360092979ced 532-544
+qt/translations/et/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f2e7e565381aa6 532-544
+qt/translations/eu/organicmaps.ts
+  s_7dfe5f73cf2aee::t_2f0348bfeceb6a 532-544
+qt/translations/fa/organicmaps.ts
+  s_7dfe5f73cf2aee::t_25d6b27f4c8c50 532-544
+qt/translations/fi/organicmaps.ts
+  s_7dfe5f73cf2aee::t_309d20d5c9478a 532-544
+qt/translations/fr-CA/organicmaps.ts
+  s_7dfe5f73cf2aee::t_2b9df4a7820fcb 532-544
+qt/translations/fr/organicmaps.ts
+  s_7dfe5f73cf2aee::t_1d4aedd6e1e662 532-544
+qt/translations/gl/organicmaps.ts
+  s_7dfe5f73cf2aee::t_cb838e5ab6af69 532-544
+qt/translations/he/organicmaps.ts
+  s_7dfe5f73cf2aee::t_96466df3c10c95 532-544
+qt/translations/hi/organicmaps.ts
+  s_7dfe5f73cf2aee::t_53bf39ba0f0f6b 532-544
+qt/translations/hr/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f0dec79ee002dc 532-544
+qt/translations/hu/organicmaps.ts
+  s_7dfe5f73cf2aee::t_b54b0531d89c20 532-544
+qt/translations/hy/organicmaps.ts
+  s_7dfe5f73cf2aee::t_ace3d0f0eeb0a8 532-544
+qt/translations/ia/organicmaps.ts
+  s_7dfe5f73cf2aee::t_4b41a3c90f5057 532-544
+qt/translations/id/organicmaps.ts
+  s_7dfe5f73cf2aee::t_9ca5b0beaeacaf 532-544
+qt/translations/is/organicmaps.ts
+  s_7dfe5f73cf2aee::t_171d11dd1fb5d7 532-544
+qt/translations/it/organicmaps.ts
+  s_7dfe5f73cf2aee::t_c705aa9f85942d 532-544
+qt/translations/ja/organicmaps.ts
+  s_7dfe5f73cf2aee::t_447dd5ff1e81c1 532-544
+qt/translations/ko/organicmaps.ts
+  s_7dfe5f73cf2aee::t_adf6b12182f2c8 532-544
+qt/translations/lo/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f7bb625a630787 532-544
+qt/translations/lt/organicmaps.ts
+  s_7dfe5f73cf2aee::t_ffeed75379b46e 532-544
+qt/translations/lv/organicmaps.ts
+  s_7dfe5f73cf2aee::t_9255d57b4c31d6 532-544
+qt/translations/ml/organicmaps.ts
+  s_7dfe5f73cf2aee::t_4a652572a58b96 532-544
+qt/translations/mr/organicmaps.ts
+  s_7dfe5f73cf2aee::t_7f952845430d4b 532-544
+qt/translations/mt/organicmaps.ts
+  s_7dfe5f73cf2aee::t_80a94ca69dddcc 532-544
+qt/translations/nb/organicmaps.ts
+  s_7dfe5f73cf2aee::t_2a465b049ca50e 532-544
+qt/translations/nl/organicmaps.ts
+  s_7dfe5f73cf2aee::t_d7e616fb89f168 532-544
+qt/translations/oc/organicmaps.ts
+  s_7dfe5f73cf2aee::t_c5a38592df63bc 532-544
+qt/translations/pa/organicmaps.ts
+  s_7dfe5f73cf2aee::t_7ccbaf3f0a3d3f 532-544
+qt/translations/pl/organicmaps.ts
+  s_7dfe5f73cf2aee::t_9ea8cdf34a8c2f 532-544
+qt/translations/pt-BR/organicmaps.ts
+  s_7dfe5f73cf2aee::t_3a53be45ffe578 532-544
+qt/translations/pt/organicmaps.ts
+  s_7dfe5f73cf2aee::t_c03d74198b4af9 532-544
+qt/translations/ro/organicmaps.ts
+  s_7dfe5f73cf2aee::t_818bbe66cb7818 532-544
+qt/translations/ru/organicmaps.ts
+  s_7dfe5f73cf2aee::t_8676d7d85adaf7 532-544
+qt/translations/sk/organicmaps.ts
+  s_7dfe5f73cf2aee::t_1d110f7ddfca7a 532-544
+qt/translations/sl/organicmaps.ts
+  s_7dfe5f73cf2aee::t_25f4e06b3948f2 532-544
+qt/translations/sq/organicmaps.ts
+  s_7dfe5f73cf2aee::t_6ec34e7d23f85e 532-544
+qt/translations/sr/organicmaps.ts
+  s_7dfe5f73cf2aee::t_8020872224062f 532-544
+qt/translations/sv/organicmaps.ts
+  s_7dfe5f73cf2aee::t_eb2773d6ca3287 532-544
+qt/translations/sw/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f12a96be26b550 532-544
+qt/translations/te/organicmaps.ts
+  s_7dfe5f73cf2aee::t_9901a22f9898fd 532-544
+qt/translations/th/organicmaps.ts
+  s_7dfe5f73cf2aee::t_e21833a4a7438a 532-544
+qt/translations/tr/organicmaps.ts
+  s_7dfe5f73cf2aee::t_581af2aa0f7cb4 532-544
+qt/translations/uk/organicmaps.ts
+  s_7dfe5f73cf2aee::t_651201553fc048 532-544
+qt/translations/vi/organicmaps.ts
+  s_7dfe5f73cf2aee::t_1b080a86a807eb 532-544
+qt/translations/zh-Hans/organicmaps.ts
+  s_7dfe5f73cf2aee::t_a98f1988aa19a0 532-544
+qt/translations/zh-Hant/organicmaps.ts
+  s_7dfe5f73cf2aee::t_f3aa2aa6b3fe7a 532-544
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "646acdc222436360b749af236f3391bdfa7cf125",
+  "prompts": {},
+  "sessions": {
+    "s_7dfe5f73cf2aee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef95-0f72-7520-9c99-5d6c62993c91",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
